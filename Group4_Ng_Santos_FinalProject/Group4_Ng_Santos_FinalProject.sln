@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35514.174
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameAssets", "GameAssets\GameAssets.csproj", "{2252C475-6536-4794-B8EE-B5409E1EBBB7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Group4_Ng_Santos_FinalProject.Android", "Group4_Ng_Santos_FinalProject.Android\Group4_Ng_Santos_FinalProject.Android.csproj", "{4EC4FC34-386B-458A-B9E7-FCC1C6018CE8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Group4_Ng_Santos_Final_DesktopApp", "Group4_Ng_Santos_Final_DesktopApp\Group4_Ng_Santos_Final_DesktopApp.csproj", "{E41B87C0-8DF9-48AD-BE4D-6435FCF1A016}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Group4_Ng_Santos_Final", "Group4_Ng_Santos_Final\Group4_Ng_Santos_Final.csproj", "{130838B1-1C2F-4EB7-A21F-B8427171039F}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "SkyFallInstaller", "SkyFallInstaller\SkyFallInstaller.vdproj", "{78F0C40F-6419-3C32-A677-11983BBC1D85}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2252C475-6536-4794-B8EE-B5409E1EBBB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2252C475-6536-4794-B8EE-B5409E1EBBB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2252C475-6536-4794-B8EE-B5409E1EBBB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2252C475-6536-4794-B8EE-B5409E1EBBB7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4EC4FC34-386B-458A-B9E7-FCC1C6018CE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4EC4FC34-386B-458A-B9E7-FCC1C6018CE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4EC4FC34-386B-458A-B9E7-FCC1C6018CE8}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{4EC4FC34-386B-458A-B9E7-FCC1C6018CE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4EC4FC34-386B-458A-B9E7-FCC1C6018CE8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4EC4FC34-386B-458A-B9E7-FCC1C6018CE8}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{E41B87C0-8DF9-48AD-BE4D-6435FCF1A016}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E41B87C0-8DF9-48AD-BE4D-6435FCF1A016}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E41B87C0-8DF9-48AD-BE4D-6435FCF1A016}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E41B87C0-8DF9-48AD-BE4D-6435FCF1A016}.Release|Any CPU.Build.0 = Release|Any CPU
+		{130838B1-1C2F-4EB7-A21F-B8427171039F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{130838B1-1C2F-4EB7-A21F-B8427171039F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{130838B1-1C2F-4EB7-A21F-B8427171039F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{130838B1-1C2F-4EB7-A21F-B8427171039F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78F0C40F-6419-3C32-A677-11983BBC1D85}.Debug|Any CPU.ActiveCfg = Debug
+		{78F0C40F-6419-3C32-A677-11983BBC1D85}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BF8E0DAD-C81B-4A18-892D-8894DF9E64FA}
+	EndGlobalSection
+EndGlobal
